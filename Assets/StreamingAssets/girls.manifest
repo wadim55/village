@@ -1,0 +1,383 @@
+ManifestFileVersion: 0
+CRC: 388498164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54ca198d1b0b9912399a1d10ed6c5e8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e171aef1c589160d467ca0fa35829bba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 641a501636ec3644993211c008d9a8a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5682394e55a192147a020b9edf624e51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07991854900d31945a21cc890801290e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9840a28297a53d449903f34dc60157bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2185d538298c73f418ba252c3e3e01ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.QuestMachine.BasicUIContent
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.QuestMachine.MessageValue
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.QuestMachine.QuestConditionSet
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.QuestMachine.QuestContentSet
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.QuestMachine.QuestNode
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.QuestMachine.QuestStateInfo
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.StringField
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Base_character/Naoko_face.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UI/animation.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/FBX/Eri_sweather.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Base_character/cheek.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Bikini/Hoshi_SkinB.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Bikini/bikini5.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Kazuko_Skin.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_hada.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Base_character/Hoshi_eyeL.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Prefab/Eri_hairband.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/AvatarA_Mask_v1.0.mask"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Base_character/Eri_face.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/FBX/Riko_optimized.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/FBX/Hoshi_katana.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Base_character/Riko_eyeL.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Bikini/Kazuko_SkinB.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Bikini/Naoko_SkinB.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Base_character/Naoko_eyeline.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Base_character/Riko_eyeR.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Base_character/Eri_eyeL.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/floorD.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Prefab/Kazuko_bikini.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Prefab/Kazuko.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/cam_view02.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Base_character/cheek.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Base_character/Riko_hair.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Prefab/HairclipA.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Riko_cloth.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Sweater/Eri_Sweater.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Base_character/Hoshi_eyeline.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Bikini&Pajama/Pajama02.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Base_character/Eri_eyeline.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/floorF.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Base_character/Kazuko_lash.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/NaokoSettings.lighting"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Base_character/Naoko_face.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/FBX/Hoshi_Bikini.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Base_character/Riko_eyeline.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Base_character/cheek.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/floorF.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Atk4.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Base_character/Naoko_eyeR.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@DieA.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Kazuko_hair.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Bikini/Naoko_SkinB.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Materials/Hara_eyeline.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UI/frame.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Prefabs/Hoshi.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Prefab/Hoshi_Nobra.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Prefab/Eri_schooluniform.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/Camera_move.controller"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Hoshi_Skin.BMP"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Run_L.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/EriSettings.lighting"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/readme.txt"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Bikini&Pajama/bikini11.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Bikini&Pajama/Pajama02.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UI/icon.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/cam_view01.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/School_uniform/Eri_skin.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Base_character/cheek.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Base_character/Hoshi_eyeL.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Walk_R.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Run.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/School_uniform/Eri_schooluniform.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Naoko_Skin.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/KazukoSettings.lighting"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Bikini/bikini9.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Base_character/Naoko_eyeline.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Walk_L.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Kazuko_Claymore.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/FBX/Kazuko_claymore.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Naoko_Maid.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Kazuko_Armor.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Riko_skin.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/FO_RIM1.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeR.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/School_uniform/Eri_schooluniform.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Base_character/Riko_face.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Elfears.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Prefab/Riko.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Animation_check_Eri.controller"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_SmileA.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Atk3.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/FBX/Riko.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/DirecLight2.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Prefabs/Naoko.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Prefabs/Eri_sweather.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Base_character/cheek.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Prefab/Hoshi_katana.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/cam_pose_spellC.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/FO_CLOTH1.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Base_character/Riko_lash.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Hoshi_Skin.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Damage.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Base_character/Hoshi_eyeR.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Materials/Eri_face.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Bikini&Pajama/Eri_SkinB.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Jump.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Riko_hair.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Base_character/Naoko_eyeL.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@IdleF.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Base_character/Eri_eyeline.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Cutepose.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_fuku.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Base_character/Hoshi_face.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/FO_SKIN1.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Hoshi_katana.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Base_character/cheek.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Base_character/Eri_eyeL.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Kazuko_Armor.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_Ang3.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeL.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Materials/cheek.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Kazuko_hair.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@IdleC.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Sweater/Eri_skinC.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Thinking.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko-300x200-1.jpg"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Bikini&Pajama/Eri_SkinB.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/hoshi_katana.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Prefabs/Riko_Tanktop.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Base_character/Hoshi_face.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Base_character/Riko_eyeL.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@IdleB.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_SadA.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeR.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Base_character/Hoshi_eyeline.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_SadB.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeL.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Base_character/Naoko_hair.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Base_character/Riko_eyeline.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Base_character/Eri_hair.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_EyeClose.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/floorD.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Sweater/Eri_skinC.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Prefab/Kazuko_nobra.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Prefab/Naoko.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Prefab/Naoko_Bikini.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UI/anim_button3.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@CastspellA.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@IdleE.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/floorD.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Hoshi_hair.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Prefab/Hoshi.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@DieB.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Materials/Hara_face.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/FBX/Naoko.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/DirecLigth.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Animation_check_Hoshi.controller"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Bikini/Riko_SkinB.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Animation_check_Naoko.controller"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Bikini/Riko_SkinB.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Base_character/Eri_face.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Materials/Hara_eyeR.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Base_character/cheek.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Prefab/Eri_bikini.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/RikoSettings.lighting"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Base_character/Eri_lash.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Idle_A.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Bikini/bikini7.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_SmileB.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/floorD.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Bikini/bikini6.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@CastspellC.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Base_character/Naoko_lash.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/School_uniform/Eri_skin.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Rei.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Cry.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/FBX/Eri_pajama.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_Ang2.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/floorF.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Base_character/Naoko_eyeR.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Atk2.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Base_character/Hoshi_eyeR.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Bikini/Kazuko_SkinB.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Riko_skin.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Run_R.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/FBX/Hoshi.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Prefab/Riko_Nobra.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Bikini/bikini9.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Base_character/Eri_eyeR.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Prefab/Elf_ears.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/HoshiSettings.lighting"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Angpose.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/AvatarA_v1.0.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Bikini&Pajama/bikini11.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/FBX/Kazuko.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/FBX/HairclipA.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Prefab/Eri_sweather.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_Surprise.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Bikini/bikini6.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/floorF.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Base_character/cheek.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Prefab/Naoko_Nobra.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@CastspellB.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/FBX/Eri_schooluniform.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Base_character/Eri_eyeR.tga"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Base_character/Naoko_eyeL.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Naoko_Maid.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/came_start.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Base_character/cheek.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Animation_check_Riko.controller"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/FBX/Elf_ears.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Prefabs/\u041A\u0430\u0437\u0443\u043A\u043E.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Walk.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Naoko_Skin.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/floorE.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/FBX/Eri_hairband.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/FBX/Naoko_Bikini.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Prefab/Riko_Tanktop.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Prefab/Hoshi_Bikini.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Hoshi_main.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/FBX/Riko_Bikini.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Riko_cloth.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_hair.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emotion_Mask_v1.0.mask"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Elfears.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Prefab/Riko_optimized.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UI/anim_button1.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Texture/Eri/Sweater/Eri_Sweater.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Base_character/Kazuko_eyeline.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Base_character/Kazuko_face.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/FBX/Kazuko_bikini.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Bikini/Hoshi_SkinB.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Base_character/Kazuko_face.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Texture/Kazuko/Kazuko_Skin.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Base_character/Riko_face.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Bye.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Materials/Hara_eyeL.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Atk1.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/cam_pose_spellC_2.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Hoshi_main.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Materials/Naoko/Base_character/cheek.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Bikini/bikini7.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Hoshi_hair.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Prefab/Eri_nobra.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/FBX/Eri_bikini.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/Directional
+  Light.controller"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_eye.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Prefab/Riko_Bikini.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Prefab/Kazuko_claymore.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/FBX/Naoko_Hairband.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Animation_check_Kazuko.controller"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/cam_pose01.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Base_character/Eri_hair.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/Naoko/Naoko_hair.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UI/emo.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Materials/Riko/Base_character/Riko_eyeR.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Walk_back.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/Base_character/Kazuko_eyeline.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko/Materials/Kazuko/kazuko_claymore.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Base_character/Hoshi_lash.mat"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Camera&light_animation/cam_pose02.anim"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Naoko/Texture/floorE.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Riko/Texture/Riko/Bikini/bikini5.png"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Prefab/Eri_pajama.prefab"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Emotions/Emo@Face_Ang1.fbx"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader"
+Dependencies: []

@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\One\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\One\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_village.1937081058.00" t="ExcludeRecursive" />
+    <e p="C:\work\Learners\Barikov\village" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AssetLoader.cs" t="Include" />
+        <e p="Editor" t="Include">
+          <e p="creatingBundles.cs" t="Include" />
+        </e>
+        <e p="Highway Racer" t="Include">
+          <e p="Editor" t="Include">
+            <e p="HR_EditorWindows.cs" t="Include" />
+            <e p="HR_InitOnLoad.cs" t="Include" />
+            <e p="HR_ModApplierEditor.cs" t="Include" />
+            <e p="HR_PlayerCarsEditor.cs" t="Include" />
+            <e p="HR_PlayerEditor.cs" t="Include" />
+            <e p="HR_PropertiesEditor.cs" t="Include" />
+            <e p="HR_SetScriptingSymbol.cs" t="Include" />
+            <e p="HR_WheelsEditor.cs" t="Include" />
+          </e>
+          <e p="RealisticCarControllerV3" t="Include">
+            <e p="Editor" t="Include">
+              <e p="RCC_AIBZEditor.cs" t="Include" />
+              <e p="RCC_AIEditor.cs" t="Include" />
+              <e p="RCC_AIWPEditor.cs" t="Include" />
+              <e p="RCC_CameraEditor.cs" t="Include" />
+              <e p="RCC_Editor.cs" t="Include" />
+              <e p="RCC_EditorWindows.cs" t="Include" />
+              <e p="RCC_FixAxisWindow.cs" t="Include" />
+              <e p="RCC_GroundMaterialsEditor.cs" t="Include" />
+              <e p="RCC_InitLoad.cs" t="Include" />
+              <e p="RCC_LightEditor.cs" t="Include" />
+              <e p="RCC_RecordsEditor.cs" t="Include" />
+              <e p="RCC_SceneGUI.cs" t="Include" />
+              <e p="RCC_SceneManagerEditor.cs" t="Include" />
+              <e p="RCC_SetControllerAuto.cs" t="Include" />
+              <e p="RCC_SetScriptingSymbol.cs" t="Include" />
+              <e p="RCC_SettingsEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="RCC.cs" t="Include" />
+              <e p="RCC_AIBrakeZone.cs" t="Include" />
+              <e p="RCC_AIBrakeZonesContainer.cs" t="Include" />
+              <e p="RCC_AICarController.cs" t="Include" />
+              <e p="RCC_AIO.cs" t="Include" />
+              <e p="RCC_AIWaypointsContainer.cs" t="Include" />
+              <e p="RCC_APIExample.cs" t="Include" />
+              <e p="RCC_AssetPaths.cs" t="Include" />
+              <e p="RCC_Caliper.cs" t="Include" />
+              <e p="RCC_Camera.cs" t="Include" />
+              <e p="RCC_CameraCarSelection.cs" t="Include" />
+              <e p="RCC_CarControllerV3.cs" t="Include" />
+              <e p="RCC_CarSelectionExample.cs" t="Include" />
+              <e p="RCC_ChangableWheels.cs" t="Include" />
+              <e p="RCC_CharacterController.cs" t="Include" />
+              <e p="RCC_CheckUp.cs" t="Include" />
+              <e p="RCC_CinematicCamera.cs" t="Include" />
+              <e p="RCC_ColorPickerBySliders.cs" t="Include" />
+              <e p="RCC_Core.cs" t="Include" />
+              <e p="RCC_CrashHammer.cs" t="Include" />
+              <e p="RCC_CrashPress.cs" t="Include" />
+              <e p="RCC_CrashShredder.cs" t="Include" />
+              <e p="RCC_Customization.cs" t="Include" />
+              <e p="RCC_CustomizerExample.cs" t="Include" />
+              <e p="RCC_Damage.cs" t="Include" />
+              <e p="RCC_DamageData.cs" t="Include" />
+              <e p="RCC_DashboardColors.cs" t="Include" />
+              <e p="RCC_DashboardInputs.cs" t="Include" />
+              <e p="RCC_DashboardObjects.cs" t="Include" />
+              <e p="RCC_Demo.cs" t="Include" />
+              <e p="RCC_DemoVehicles.cs" t="Include" />
+              <e p="RCC_DetachablePart.cs" t="Include" />
+              <e p="RCC_Emission.cs" t="Include" />
+              <e p="RCC_Exhaust.cs" t="Include" />
+              <e p="RCC_FixedCamera.cs" t="Include" />
+              <e p="RCC_FOVForCinematicCamera.cs" t="Include" />
+              <e p="RCC_FuelStation.cs" t="Include" />
+              <e p="RCC_GetBounds.cs" t="Include" />
+              <e p="RCC_GroundMaterials.cs" t="Include" />
+              <e p="RCC_HoodCamera.cs" t="Include" />
+              <e p="RCC_InfoLabel.cs" t="Include" />
+              <e p="RCC_InputActions.cs" t="Include" />
+              <e p="RCC_InputManager.cs" t="Include" />
+              <e p="RCC_Inputs.cs" t="Include" />
+              <e p="RCC_Installation.cs" t="Include" />
+              <e p="RCC_Joint.cs" t="Include" />
+              <e p="RCC_LevelLoader.cs" t="Include" />
+              <e p="RCC_Light.cs" t="Include" />
+              <e p="RCC_LOD.cs" t="Include" />
+              <e p="RCC_Mirror.cs" t="Include" />
+              <e p="RCC_MobileButtons.cs" t="Include" />
+              <e p="RCC_MobileUIDrag.cs" t="Include" />
+              <e p="RCC_PlayerPrefsX.cs" t="Include" />
+              <e p="RCC_PoliceSiren.cs" t="Include" />
+              <e p="RCC_Recorder.cs" t="Include" />
+              <e p="RCC_Records.cs" t="Include" />
+              <e p="RCC_RepairStation.cs" t="Include" />
+              <e p="RCC_SceneManager.cs" t="Include" />
+              <e p="RCC_Settings.cs" t="Include" />
+              <e p="RCC_ShadowRotConst.cs" t="Include" />
+              <e p="RCC_Singleton.cs" t="Include" />
+              <e p="RCC_Skidmarks.cs" t="Include" />
+              <e p="RCC_SkidmarksManager.cs" t="Include" />
+              <e p="RCC_Spawner.cs" t="Include" />
+              <e p="RCC_SuspensionArm.cs" t="Include" />
+              <e p="RCC_SuspensionBumper.cs" t="Include" />
+              <e p="RCC_Telemetry.cs" t="Include" />
+              <e p="RCC_Teleporter.cs" t="Include" />
+              <e p="RCC_TrailerAttachPoint.cs" t="Include" />
+              <e p="RCC_TruckTrailer.cs" t="Include" />
+              <e p="RCC_UIController.cs" t="Include" />
+              <e p="RCC_UIDashboardButton.cs" t="Include" />
+              <e p="RCC_UIDashboardDisplay.cs" t="Include" />
+              <e p="RCC_UIJoystick.cs" t="Include" />
+              <e p="RCC_UISliderTextReader.cs" t="Include" />
+              <e p="RCC_UISteeringWheelController.cs" t="Include" />
+              <e p="RCC_Useless.cs" t="Include" />
+              <e p="RCC_Version.cs" t="Include" />
+              <e p="RCC_Waypoint.cs" t="Include" />
+              <e p="RCC_WheelCamera.cs" t="Include" />
+              <e p="RCC_WheelCollider.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="HR_API.cs" t="Include" />
+            <e p="HR_BarrierCollisionProtector.cs" t="Include" />
+            <e p="HR_Bomb.cs" t="Include" />
+            <e p="HR_BoundsExtension.cs" t="Include" />
+            <e p="HR_CalculateAngle.cs" t="Include" />
+            <e p="HR_CarCamera.cs" t="Include" />
+            <e p="HR_CashDoubler.cs" t="Include" />
+            <e p="HR_CreateAudioSource.cs" t="Include" />
+            <e p="HR_FixFloatingOrigin.cs" t="Include" />
+            <e p="HR_GamePlayHandler.cs" t="Include" />
+            <e p="HR_GetBounds.cs" t="Include" />
+            <e p="HR_HighwayRacerProperties.cs" t="Include" />
+            <e p="HR_LightBox.cs" t="Include" />
+            <e p="HR_MainMenuHandler.cs" t="Include" />
+            <e p="HR_ModApplier.cs" t="Include" />
+            <e p="HR_ModHandler.cs" t="Include" />
+            <e p="HR_PlayerCars.cs" t="Include" />
+            <e p="HR_PlayerHandler.cs" t="Include" />
+            <e p="HR_QualitySettingsApplier.cs" t="Include" />
+            <e p="HR_RoadPooling.cs" t="Include" />
+            <e p="HR_SetLightmapsManually.cs" t="Include" />
+            <e p="HR_ShowroomCamera.cs" t="Include" />
+            <e p="HR_TrafficCar.cs" t="Include" />
+            <e p="HR_TrafficPooling.cs" t="Include" />
+            <e p="HR_Version.cs" t="Include" />
+            <e p="HR_Wheels.cs" t="Include" />
+            <e p="PlayerPrefsX.cs" t="Include" />
+            <e p="UI Scripts" t="Include">
+              <e p="HR_UIButtonSlideAnimation.cs" t="Include" />
+              <e p="HR_UIButtonSound.cs" t="Include" />
+              <e p="HR_UIController_Type.cs" t="Include" />
+              <e p="HR_UICountAnimation.cs" t="Include" />
+              <e p="HR_UIDynamicScoreDisplayer.cs" t="Include" />
+              <e p="HR_UIGameOverPanel.cs" t="Include" />
+              <e p="HR_UIGameplayPanel.cs" t="Include" />
+              <e p="HR_UIGraphicsButton.cs" t="Include" />
+              <e p="HR_UIHorn.cs" t="Include" />
+              <e p="HR_UIInfoDisplayer.cs" t="Include" />
+              <e p="HR_UIKeyEnter.cs" t="Include" />
+              <e p="HR_UIMobileDrag.cs" t="Include" />
+              <e p="HR_UIOptionsHandler.cs" t="Include" />
+              <e p="HR_UIOptionsManager.cs" t="Include" />
+              <e p="Upgrade" t="Include">
+                <e p="HR_UI_Color.cs" t="Include" />
+                <e p="HR_UI_Neon.cs" t="Include" />
+                <e p="HR_UI_SetDecal.cs" t="Include" />
+                <e p="HR_UI_Siren.cs" t="Include" />
+                <e p="HR_UI_Spoiler.cs" t="Include" />
+                <e p="HR_UIModificationUpgrade.cs" t="Include" />
+                <e p="HR_UIModificationWheel.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Upgrade Scripts" t="Include">
+              <e p="HR_VehicleUpgrade_Brake.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_Decal.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_DecalManager.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_Engine.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_Handling.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_Neon.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_NeonManager.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_NOS.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_Paint.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_PaintManager.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_Siren.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_SirenManager.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_Speed.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_Spoiler.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_SpoilerManager.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_UpgradeManager.cs" t="Include" />
+              <e p="HR_VehicleUpgrade_WheelManager.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Pixel Crushers" t="Include">
+            <e p="Common" t="Include">
+              <e p="_README.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Message System" t="Include">
+                    <e p="MessageEventsEditor.cs" t="Include" />
+                  </e>
+                  <e p="Misc" t="Include">
+                    <e p="AssetUtility.cs" t="Include" />
+                    <e p="EditorGUIZoomArea.cs" t="Include" />
+                    <e p="EnablePhysics2DMenuItem.cs" t="Include" />
+                    <e p="HelpBoxAttributeDrawer.cs" t="Include" />
+                    <e p="MoreEditorGuiUtility.cs" t="Include" />
+                    <e p="MoreEditorUtility.cs" t="Include" />
+                    <e p="TimedEventEditor.cs" t="Include" />
+                    <e p="TypeUtility.cs" t="Include" />
+                  </e>
+                  <e p="Save System" t="Include">
+                    <e p="DiskSavedGameDataStorerEditor.cs" t="Include" />
+                    <e p="PlayerPrefsSavedGameDataStorerEditor.cs" t="Include" />
+                    <e p="SaverEditor.cs" t="Include" />
+                    <e p="SaveSystemEditorUtility.cs" t="Include" />
+                  </e>
+                  <e p="Text" t="Include">
+                    <e p="CSVUtility.cs" t="Include" />
+                    <e p="StringFieldDrawer.cs" t="Include" />
+                    <e p="StringFieldTextAreaAttributeDrawer.cs" t="Include" />
+                    <e p="TextTableEditor.cs" t="Include" />
+                    <e p="TextTableEditorWindow.cs" t="Include" />
+                  </e>
+                  <e p="UI" t="Include">
+                    <e p="CheckInputManagerSettings.cs" t="Include" />
+                    <e p="InputDeviceManagerEditor.cs" t="Include" />
+                    <e p="UILocalizationManagerEditor.cs" t="Include" />
+                    <e p="UITextFieldDrawer.cs" t="Include" />
+                  </e>
+                  <e p="UnityEvents" t="Include">
+                    <e p="TagMaskDrawer.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Message System" t="Include">
+                  <e p="DataSynchronizer.cs" t="Include" />
+                  <e p="IMessageHandler.cs" t="Include" />
+                  <e p="MessageArgs.cs" t="Include" />
+                  <e p="MessageEvents.cs" t="Include" />
+                  <e p="MessageSystem.cs" t="Include" />
+                  <e p="MessageSystemLogger.cs" t="Include" />
+                </e>
+                <e p="Misc" t="Include">
+                  <e p="AlwaysFaceCamera.cs" t="Include" />
+                  <e p="CheckPhysics2D.cs" t="Include" />
+                  <e p="ComponentUtility.cs" t="Include" />
+                  <e p="CursorControl.cs" t="Include" />
+                  <e p="DictionaryExtensions.cs" t="Include" />
+                  <e p="Dimension.cs" t="Include" />
+                  <e p="DontDestroyGameObject.cs" t="Include" />
+                  <e p="EnableOnStart.cs" t="Include" />
+                  <e p="GameObjectUtility.cs" t="Include" />
+                  <e p="GameTime.cs" t="Include" />
+                  <e p="HelpBoxAttribute.cs" t="Include" />
+                  <e p="InstantiatePrefabs.cs" t="Include" />
+                  <e p="ListExtensions.cs" t="Include" />
+                  <e p="LODManager.cs" t="Include" />
+                  <e p="MoreGizmos.cs" t="Include" />
+                  <e p="MorePhysics2D.cs" t="Include" />
+                  <e p="Pool.cs" t="Include" />
+                  <e p="RectExtensions.cs" t="Include" />
+                  <e p="RuntimeTypeUtility.cs" t="Include" />
+                  <e p="SafeConvert.cs" t="Include" />
+                  <e p="SceneNotifier.cs" t="Include" />
+                  <e p="ScriptableObjectUtility.cs" t="Include" />
+                </e>
+                <e p="Save System" t="Include">
+                  <e p="Misc" t="Include">
+                    <e p="AutoSaveLoad.cs" t="Include" />
+                    <e p="SavedGameData.cs" t="Include" />
+                    <e p="SaveSystemEvents.cs" t="Include" />
+                    <e p="SaveSystemMethods.cs" t="Include" />
+                    <e p="SaveSystemTestMenu.cs" t="Include" />
+                    <e p="ScenePortal.cs" t="Include" />
+                  </e>
+                  <e p="Savers" t="Include">
+                    <e p="ActiveSaver.cs" t="Include" />
+                    <e p="AnimatorSaver.cs" t="Include" />
+                    <e p="DestructibleSaver.cs" t="Include" />
+                    <e p="EnabledSaver.cs" t="Include" />
+                    <e p="MultiActiveSaver.cs" t="Include" />
+                    <e p="MultiEnabledSaver.cs" t="Include" />
+                    <e p="PositionSaver.cs" t="Include" />
+                    <e p="Saver.cs" t="Include" />
+                  </e>
+                  <e p="SaveSystem.cs" t="Include" />
+                  <e p="Serializers" t="Include">
+                    <e p="Binary" t="Include">
+                      <e p="BinaryDataSerializer.cs" t="Include" />
+                      <e p="QuaternionSerializationSurrogate.cs" t="Include" />
+                      <e p="Vector3SerializationSurrogate.cs" t="Include" />
+                    </e>
+                    <e p="DataSerializer.cs" t="Include" />
+                    <e p="JsonDataSerializer.cs" t="Include" />
+                  </e>
+                  <e p="Spawning" t="Include">
+                    <e p="SpawnedObject.cs" t="Include" />
+                    <e p="SpawnedObjectManager.cs" t="Include" />
+                  </e>
+                  <e p="Storers" t="Include">
+                    <e p="DiskSavedGameDataStorer.cs" t="Include" />
+                    <e p="EncryptionUtility.cs" t="Include" />
+                    <e p="PlayerPrefsSavedGameDataStorer.cs" t="Include" />
+                    <e p="SavedGameDataStorer.cs" t="Include" />
+                  </e>
+                  <e p="Transitions" t="Include">
+                    <e p="SceneTransitionManager.cs" t="Include" />
+                    <e p="StandardSceneTransitionManager.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Text" t="Include">
+                  <e p="EncodingType.cs" t="Include" />
+                  <e p="GlobalTextTable.cs" t="Include" />
+                  <e p="StringAsset.cs" t="Include" />
+                  <e p="StringField.cs" t="Include" />
+                  <e p="StringFieldTextAreaAttribute.cs" t="Include" />
+                  <e p="TextTable.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include">
+                  <e p="DeselectPreviousOnPointerEnter.cs" t="Include" />
+                  <e p="InputDeviceManager.cs" t="Include" />
+                  <e p="InputDeviceMethods.cs" t="Include" />
+                  <e p="KeepRectTransformOnscreen.cs" t="Include" />
+                  <e p="LocalizeUI.cs" t="Include" />
+                  <e p="ShowCursorWhileEnabled.cs" t="Include" />
+                  <e p="UIAnimatorMonitor.cs" t="Include" />
+                  <e p="UIButtonKeyTrigger.cs" t="Include" />
+                  <e p="UIInputField.cs" t="Include" />
+                  <e p="UILocalizationManager.cs" t="Include" />
+                  <e p="UIPanel.cs" t="Include" />
+                  <e p="UIScrollbarEnabler.cs" t="Include" />
+                  <e p="UITextColor.cs" t="Include" />
+                  <e p="UITextField.cs" t="Include" />
+                  <e p="UIUtility.cs" t="Include" />
+                </e>
+                <e p="UnityEvents" t="Include">
+                  <e p="CollisionEvent.cs" t="Include" />
+                  <e p="DisappearEvent.cs" t="Include" />
+                  <e p="ParameterEvents.cs" t="Include" />
+                  <e p="TagMask.cs" t="Include" />
+                  <e p="TagMaskEvent.cs" t="Include" />
+                  <e p="TimedEvent.cs" t="Include" />
+                  <e p="TriggerEvent.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Templates" t="Include">
+                <e p="SaverTemplate.cs" t="Include" />
+              </e>
+              <e p="Wrappers" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Text" t="Include">
+                    <e p="StringAssetMenu.cs" t="Include" />
+                    <e p="TextTableAssetMenu.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Message System" t="Include">
+                  <e p="DataSynchronizer.cs" t="Include" />
+                  <e p="MessageEvents.cs" t="Include" />
+                  <e p="MessageSystemLogger.cs" t="Include" />
+                </e>
+                <e p="Misc" t="Include">
+                  <e p="AlwaysFaceCamera.cs" t="Include" />
+                  <e p="CheckPhysics2D.cs" t="Include" />
+                  <e p="DontDestroyGameObject.cs" t="Include" />
+                  <e p="EditorNote.cs" t="Include" />
+                  <e p="EnableOnStart.cs" t="Include" />
+                  <e p="InstantiatePrefabs.cs" t="Include" />
+                  <e p="LODManager.cs" t="Include" />
+                </e>
+                <e p="Save System" t="Include">
+                  <e p="Misc" t="Include">
+                    <e p="AutoSaveLoad.cs" t="Include" />
+                    <e p="SaveSystemEvents.cs" t="Include" />
+                    <e p="SaveSystemMethods.cs" t="Include" />
+                    <e p="SaveSystemTestMenu.cs" t="Include" />
+                    <e p="ScenePortal.cs" t="Include" />
+                  </e>
+                  <e p="Savers" t="Include">
+                    <e p="ActiveSaver.cs" t="Include" />
+                    <e p="AnimatorSaver.cs" t="Include" />
+                    <e p="DestructibleSaver.cs" t="Include" />
+                    <e p="EnabledSaver.cs" t="Include" />
+                    <e p="MultiActiveSaver.cs" t="Include" />
+                    <e p="MultiEnabledSaver.cs" t="Include" />
+                    <e p="PositionSaver.cs" t="Include" />
+                  </e>
+                  <e p="SaveSystem.cs" t="Include" />
+                  <e p="Serializers" t="Include">
+                    <e p="Binary" t="Include">
+                      <e p="BinaryDataSerializer.cs" t="Include" />
+                    </e>
+                    <e p="JsonDataSerializer.cs" t="Include" />
+                  </e>
+                  <e p="Spawning" t="Include">
+                    <e p="SpawnedObject.cs" t="Include" />
+                    <e p="SpawnedObjectManager.cs" t="Include" />
+                  </e>
+                  <e p="Storers" t="Include">
+                    <e p="DiskSavedGameDataStorer.cs" t="Include" />
+                    <e p="PlayerPrefsSavedGameDataStorer.cs" t="Include" />
+                  </e>
+                  <e p="Transitions" t="Include">
+                    <e p="StandardSceneTransitionManager.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Text" t="Include">
+                  <e p="GlobalTextTable.cs" t="Include" />
+                  <e p="StringAsset.cs" t="Include" />
+                  <e p="TextTable.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include">
+                  <e p="DeselectPreviousOnPointerEnter.cs" t="Include" />
+                  <e p="InputDeviceManager.cs" t="Include" />
+                  <e p="InputDeviceMethods.cs" t="Include" />
+                  <e p="KeepRectTransformOnscreen.cs" t="Include" />
+                  <e p="LocalizeUI.cs" t="Include" />
+                  <e p="ShowCursorWhileEnabled.cs" t="Include" />
+                  <e p="UIButtonKeyTrigger.cs" t="Include" />
+                  <e p="UILocalizationManager.cs" t="Include" />
+                  <e p="UIPanel.cs" t="Include" />
+                  <e p="UIScrollbarEnabler.cs" t="Include" />
+                  <e p="UITextColor.cs" t="Include" />
+                </e>
+                <e p="UnityEvents" t="Include">
+                  <e p="CollisionEvent.cs" t="Include" />
+                  <e p="DisappearEvent.cs" t="Include" />
+                  <e p="TimedEvent.cs" t="Include" />
+                  <e p="TriggerEvent.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Quest Machine" t="Include">
+              <e p="_README.txt" t="Include" />
+              <e p="Demo" t="Include">
+                <e p="Art" t="Include">
+                  <e p="Sounds" t="Include">
+                    <e p="_CREDITS.txt" t="Include" />
+                  </e>
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="DemoInventory.cs" t="Include" />
+                  <e p="DemoItemCountQuestCondition.cs" t="Include" />
+                  <e p="DemoMenu.cs" t="Include" />
+                  <e p="DemoUpdateItemCounterQuestAction.cs" t="Include" />
+                  <e p="FollowXY.cs" t="Include" />
+                  <e p="PlayerController2D.cs" t="Include" />
+                  <e p="SortByY.cs" t="Include" />
+                  <e p="Targetable.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Documentation" t="Include">
+                <e p="_RELEASE_NOTES.txt" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="_README.txt" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="Quest Editors" t="Include">
+                    <e p="Quest Database Editors" t="Include">
+                      <e p="QuestDatabaseEditor.cs" t="Include" />
+                    </e>
+                    <e p="Quest Editor Window" t="Include">
+                      <e p="QuestCanvasGUI.cs" t="Include" />
+                      <e p="QuestEditorWindow.cs" t="Include" />
+                      <e p="Wizards" t="Include">
+                        <e p="QuestEditorCounterWizard.cs" t="Include" />
+                        <e p="QuestEditorMessageWizard.cs" t="Include" />
+                        <e p="QuestEditorReturnWizard.cs" t="Include" />
+                        <e p="QuestEditorWizard.cs" t="Include" />
+                        <e p="QuestTagsToTextTableWizard.cs" t="Include" />
+                        <e p="QuestTextToTextTableWizard.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Quest Inspector" t="Include">
+                      <e p="CategorizedQuestContentInspectorGUI.cs" t="Include" />
+                      <e p="QuestActionListInspectorGUI.cs" t="Include" />
+                      <e p="QuestAudioSourceIdentifierDrawer.cs" t="Include" />
+                      <e p="QuestConditionSetInspectorGUI.cs" t="Include" />
+                      <e p="QuestContentListInspectorGUI.cs" t="Include" />
+                      <e p="QuestCounterDrawer.cs" t="Include" />
+                      <e p="QuestCounterListInspectorGUI.cs" t="Include" />
+                      <e p="QuestEditor.cs" t="Include" />
+                      <e p="QuestInspectorGUI.cs" t="Include" />
+                      <e p="QuestMainInspectorGUI.cs" t="Include" />
+                      <e p="QuestNodeInspectorGUI.cs" t="Include" />
+                      <e p="QuestNodeOrderInspectorGUI.cs" t="Include" />
+                      <e p="QuestNodeStateInfoInspectorGUI.cs" t="Include" />
+                      <e p="QuestNumberDrawer.cs" t="Include" />
+                      <e p="QuestStateInfoInspectorGUI.cs" t="Include" />
+                    </e>
+                    <e p="Quest MonoBehaviour Editors" t="Include">
+                      <e p="BasicUIContentDrawer.cs" t="Include" />
+                      <e p="BasicUIContentEditor.cs" t="Include" />
+                      <e p="QuestGiverEditor.cs" t="Include" />
+                      <e p="QuestJournalEditor.cs" t="Include" />
+                      <e p="QuestListContainerEditor.cs" t="Include" />
+                      <e p="QuestMachineIDEditor.cs" t="Include" />
+                    </e>
+                    <e p="Quest Subasset Editors" t="Include">
+                      <e p="Action Editors" t="Include">
+                        <e p="ActivateGameObjectQuestActionEditor.cs" t="Include" />
+                        <e p="AlertQuestActionEditor.cs" t="Include" />
+                        <e p="AnimatorQuestActionEditor.cs" t="Include" />
+                        <e p="AudioQuestActionEditor.cs" t="Include" />
+                        <e p="InstantiatePrefabQuestActionEditor.cs" t="Include" />
+                        <e p="MessageQuestActionEditor.cs" t="Include" />
+                        <e p="SceneEventQuestActionEditor.cs" t="Include" />
+                        <e p="SetCounterValueQuestActionEditor.cs" t="Include" />
+                      </e>
+                      <e p="Condition Editors" t="Include">
+                        <e p="CounterQuestConditionEditor.cs" t="Include" />
+                        <e p="MessageQuestConditionEditor.cs" t="Include" />
+                        <e p="ParentQuestConditionEditor.cs" t="Include" />
+                        <e p="TimerQuestConditionEditor.cs" t="Include" />
+                      </e>
+                      <e p="Content Editors" t="Include">
+                        <e p="ButtonQuestUIContentEditor.cs" t="Include" />
+                        <e p="HeadingTextQuestUIContentEditor.cs" t="Include" />
+                        <e p="IconQuestUIContentEditor.cs" t="Include" />
+                        <e p="LinkQuestContentEditor.cs" t="Include" />
+                      </e>
+                      <e p="Subasset Editor" t="Include">
+                        <e p="QuestSubassetEditor.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Utility" t="Include">
+                      <e p="MessageValueDrawer.cs" t="Include" />
+                      <e p="QuestEditorAssetUtility.cs" t="Include" />
+                      <e p="QuestEditorPrefs.cs" t="Include" />
+                      <e p="QuestEditorStyles.cs" t="Include" />
+                      <e p="QuestEditorUtility.cs" t="Include" />
+                      <e p="QuestReferenceEditorWindow.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Quest Generator Editors" t="Include">
+                    <e p="Asset Editors" t="Include">
+                      <e p="ActionEditor.cs" t="Include" />
+                      <e p="ActionStateTextDrawer.cs" t="Include" />
+                      <e p="DomainSpecifierDrawer.cs" t="Include" />
+                      <e p="DomainTypeEditor.cs" t="Include" />
+                      <e p="DriveEditor.cs" t="Include" />
+                      <e p="EntitySpecifierDrawer.cs" t="Include" />
+                      <e p="EntityTypeEditor.cs" t="Include" />
+                      <e p="FactionEditor.cs" t="Include" />
+                      <e p="FactionRequirementFunctionEditor.cs" t="Include" />
+                      <e p="MotiveDrawer.cs" t="Include" />
+                    </e>
+                    <e p="Asset Lists" t="Include">
+                      <e p="AssetInfo.cs" t="Include" />
+                      <e p="AssetInfoLists.cs" t="Include" />
+                      <e p="QuestAssetModificationProcessor.cs" t="Include" />
+                    </e>
+                    <e p="MonoBehaviour Editors" t="Include">
+                      <e p="QuestGeneratorEntityEditor.cs" t="Include" />
+                    </e>
+                    <e p="Quest Generator Editor Window" t="Include">
+                      <e p="QuestGeneratorActionListGUI.cs" t="Include" />
+                      <e p="QuestGeneratorAssetListGUI.cs" t="Include" />
+                      <e p="QuestGeneratorDomainListGUI.cs" t="Include" />
+                      <e p="QuestGeneratorDriveListGUI.cs" t="Include" />
+                      <e p="QuestGeneratorEditorWindow.cs" t="Include" />
+                      <e p="QuestGeneratorEditorWindowGUI.cs" t="Include" />
+                      <e p="QuestGeneratorEditorWindowToolbar.cs" t="Include" />
+                      <e p="QuestGeneratorEntityTypeListGUI.cs" t="Include" />
+                      <e p="QuestGeneratorFactionListGUI.cs" t="Include" />
+                      <e p="QuestGeneratorUrgencyFunctionListGUI.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Quest UI Editors" t="Include">
+                    <e p="IQuestAlertUIInspectorFieldAttributeDrawer.cs" t="Include" />
+                    <e p="IQuestDialogueUIInspectorFieldAttributeDrawer.cs" t="Include" />
+                    <e p="IQuestHUDInspectorFieldAttributeDrawer.cs" t="Include" />
+                    <e p="IQuestJournalUIInspectorFieldAttributeDrawer.cs" t="Include" />
+                  </e>
+                  <e p="Welcome Window" t="Include">
+                    <e p="WelcomeWindow.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Quest" t="Include">
+                  <e p="Quest Condition Set" t="Include">
+                    <e p="ConditionCountMode.cs" t="Include" />
+                    <e p="QuestConditionSet.cs" t="Include" />
+                  </e>
+                  <e p="Quest Content Set" t="Include">
+                    <e p="QuestAudioSourceIdentifier.cs" t="Include" />
+                    <e p="QuestContentCategory.cs" t="Include" />
+                    <e p="QuestContentSet.cs" t="Include" />
+                  </e>
+                  <e p="Quest Counter" t="Include">
+                    <e p="QuestCounter.cs" t="Include" />
+                    <e p="QuestCounterMessageEvent.cs" t="Include" />
+                    <e p="QuestCounterParameterDelegate.cs" t="Include" />
+                    <e p="QuestCounterSetValueMode.cs" t="Include" />
+                    <e p="QuestCounterUpdateMode.cs" t="Include" />
+                    <e p="QuestNumber.cs" t="Include" />
+                  </e>
+                  <e p="Quest Indicator" t="Include">
+                    <e p="QuestIndicatorState.cs" t="Include" />
+                  </e>
+                  <e p="Quest Node" t="Include">
+                    <e p="QuestNode.cs" t="Include" />
+                    <e p="QuestNodeState.cs" t="Include" />
+                    <e p="QuestNodeType.cs" t="Include" />
+                  </e>
+                  <e p="Quest Serialization" t="Include">
+                    <e p="QuestProxy.cs" t="Include" />
+                    <e p="QuestStateSerializer.cs" t="Include" />
+                  </e>
+                  <e p="Quest State" t="Include">
+                    <e p="QuestState.cs" t="Include" />
+                    <e p="QuestStateInfo.cs" t="Include" />
+                  </e>
+                  <e p="Quest Subasset" t="Include">
+                    <e p="IProxySerializationCallbackReceiver.cs" t="Include" />
+                    <e p="Quest Action" t="Include">
+                      <e p="ActivateGameObjectQuestAction.cs" t="Include" />
+                      <e p="AlertQuestAction.cs" t="Include" />
+                      <e p="AnimatorQuestAction.cs" t="Include" />
+                      <e p="AudioQuestAction.cs" t="Include" />
+                      <e p="ControlSpawnerQuestAction.cs" t="Include" />
+                      <e p="GiveQuestToQuesterQuestAction.cs" t="Include" />
+                      <e p="InstantiatePrefabQuestAction.cs" t="Include" />
+                      <e p="MessageQuestAction.cs" t="Include" />
+                      <e p="Quest Scene Events" t="Include">
+                        <e p="QuestMachineSceneEvents.cs" t="Include" />
+                        <e p="SceneEventQuestAction.cs" t="Include" />
+                      </e>
+                      <e p="QuestAction.cs" t="Include" />
+                      <e p="SetCounterValueQuestAction.cs" t="Include" />
+                      <e p="SetIndicatorQuestAction.cs" t="Include" />
+                      <e p="SetQuestNodeStateQuestAction.cs" t="Include" />
+                      <e p="SetQuestStateQuestAction.cs" t="Include" />
+                      <e p="SetTrackingQuestAction.cs" t="Include" />
+                      <e p="UnityEventQuestAction.cs" t="Include" />
+                    </e>
+                    <e p="Quest Condition" t="Include">
+                      <e p="CounterQuestCondition.cs" t="Include" />
+                      <e p="MessageQuestCondition.cs" t="Include" />
+                      <e p="ParentQuestCondition.cs" t="Include" />
+                      <e p="QuestCondition.cs" t="Include" />
+                      <e p="QuestNodeStateQuestCondition.cs" t="Include" />
+                      <e p="QuestStateQuestCondition.cs" t="Include" />
+                      <e p="TimerQuestCondition.cs" t="Include" />
+                    </e>
+                    <e p="Quest Content" t="Include">
+                      <e p="AudioClipQuestContent.cs" t="Include" />
+                      <e p="BodyTextQuestContent.cs" t="Include" />
+                      <e p="ButtonQuestContent.cs" t="Include" />
+                      <e p="HeadingTextQuestContent.cs" t="Include" />
+                      <e p="IconQuestContent.cs" t="Include" />
+                      <e p="LinkQuestContent.cs" t="Include" />
+                      <e p="QuestContent.cs" t="Include" />
+                    </e>
+                    <e p="QuestSubasset.cs" t="Include" />
+                  </e>
+                  <e p="Quest.cs" t="Include" />
+                </e>
+                <e p="Quest Database" t="Include">
+                  <e p="QuestDatabase.cs" t="Include" />
+                </e>
+                <e p="Quest Generator" t="Include">
+                  <e p="Data" t="Include">
+                    <e p="Action" t="Include">
+                      <e p="Action.cs" t="Include" />
+                      <e p="ActionCompletion.cs" t="Include" />
+                      <e p="ActionEffect.cs" t="Include" />
+                      <e p="ActionRequirement.cs" t="Include" />
+                      <e p="ActionText.cs" t="Include" />
+                      <e p="Motive.cs" t="Include" />
+                      <e p="RequirementFunction" t="Include">
+                        <e p="FactionRequirementFunction.cs" t="Include" />
+                        <e p="RequirementFunction.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="DomainType" t="Include">
+                      <e p="DomainSpecifier.cs" t="Include" />
+                      <e p="DomainType.cs" t="Include" />
+                    </e>
+                    <e p="Drive" t="Include">
+                      <e p="Drive.cs" t="Include" />
+                      <e p="DriveValue.cs" t="Include" />
+                    </e>
+                    <e p="EntityType" t="Include">
+                      <e p="EntitySpecifier.cs" t="Include" />
+                      <e p="EntityType.cs" t="Include" />
+                      <e p="PlayerEntityType.cs" t="Include" />
+                      <e p="RewardMultiplier.cs" t="Include" />
+                    </e>
+                    <e p="Faction" t="Include">
+                      <e p="Faction.cs" t="Include" />
+                    </e>
+                    <e p="UrgencyFunction" t="Include">
+                      <e p="DriveAlignmentUrgencyFunction.cs" t="Include" />
+                      <e p="FactionUrgencyFunction.cs" t="Include" />
+                      <e p="LiteralUrgencyFunction.cs" t="Include" />
+                      <e p="ThreatUrgencyFunction.cs" t="Include" />
+                      <e p="UrgencyFunction.cs" t="Include" />
+                    </e>
+                    <e p="WorldModel" t="Include">
+                      <e p="Fact.cs" t="Include" />
+                      <e p="FactSpecifier.cs" t="Include" />
+                      <e p="UrgentFactSelectionCriterion.cs" t="Include" />
+                      <e p="WorldModel.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="MonoBehaviours" t="Include">
+                    <e p="Planner" t="Include">
+                      <e p="DriveAlignmentMethod.cs" t="Include" />
+                      <e p="GoalFactSelection.cs" t="Include" />
+                      <e p="Plan.cs" t="Include" />
+                      <e p="PlanStep.cs" t="Include" />
+                      <e p="PlanToQuestBuilder.cs" t="Include" />
+                      <e p="QuestGenerator.cs" t="Include" />
+                    </e>
+                    <e p="QuestBuilder.cs" t="Include" />
+                    <e p="QuestDomain.cs" t="Include" />
+                    <e p="QuestEntity.cs" t="Include" />
+                    <e p="QuestGeneratorEntity.cs" t="Include" />
+                    <e p="Reward Systems" t="Include">
+                      <e p="MessageRewardSystem.cs" t="Include" />
+                      <e p="RewardSystem.cs" t="Include" />
+                      <e p="XPRewardSystem.cs" t="Include" />
+                    </e>
+                    <e p="Savers" t="Include">
+                      <e p="EntityTypeSaver.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Quest Machine" t="Include">
+                  <e p="CompletedQuestDialogueMode.cs" t="Include" />
+                  <e p="QuestMachine.cs" t="Include" />
+                  <e p="QuestMachineConfiguration.cs" t="Include" />
+                </e>
+                <e p="Quest MonoBehaviours" t="Include">
+                  <e p="Quest Interaction" t="Include">
+                    <e p="QuestControl.cs" t="Include" />
+                    <e p="SpawnedEntity.cs" t="Include" />
+                    <e p="Spawner.cs" t="Include" />
+                  </e>
+                  <e p="Quest List" t="Include">
+                    <e p="BasicUIContent.cs" t="Include" />
+                    <e p="IdentifiableQuestListContainer.cs" t="Include" />
+                    <e p="QuestGiver.cs" t="Include" />
+                    <e p="QuestJournal.cs" t="Include" />
+                    <e p="QuestListContainer.cs" t="Include" />
+                    <e p="QuestListEvents.cs" t="Include" />
+                    <e p="QuestMachineID.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Quest UIs" t="Include">
+                  <e p="Base" t="Include">
+                    <e p="Quest Alert UI" t="Include">
+                      <e p="IQuestAlertUI.cs" t="Include" />
+                      <e p="IQuestAlertUIInspectorFieldAttribute.cs" t="Include" />
+                      <e p="QuestAlertDisplayer.cs" t="Include" />
+                    </e>
+                    <e p="Quest Dialogue UI" t="Include">
+                      <e p="IQuestDialogueUI.cs" t="Include" />
+                      <e p="IQuestDialogueUIInspectorFieldAttribute.cs" t="Include" />
+                    </e>
+                    <e p="Quest HUD" t="Include">
+                      <e p="IQuestHUD.cs" t="Include" />
+                      <e p="IQuestHUDInspectorFieldAttribute.cs" t="Include" />
+                    </e>
+                    <e p="Quest Indicators" t="Include">
+                      <e p="QuestIndicatorManager.cs" t="Include" />
+                      <e p="QuestIndicatorSaver.cs" t="Include" />
+                      <e p="QuestIndicatorUI.cs" t="Include" />
+                    </e>
+                    <e p="Quest Journal UI" t="Include">
+                      <e p="IQuestJournalUI.cs" t="Include" />
+                      <e p="IQuestJournalUIInspectorFieldAttribute.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Unity UI" t="Include">
+                    <e p="Unity UI Content Templates" t="Include">
+                      <e p="UnityUIBaseUI.cs" t="Include" />
+                      <e p="UnityUIButtonListTemplate.cs" t="Include" />
+                      <e p="UnityUIButtonTemplate.cs" t="Include" />
+                      <e p="UnityUIContainerTemplate.cs" t="Include" />
+                      <e p="UnityUIContentTemplate.cs" t="Include" />
+                      <e p="UnityUIFoldoutTemplate.cs" t="Include" />
+                      <e p="UnityUIIconListTemplate.cs" t="Include" />
+                      <e p="UnityUIIconTemplate.cs" t="Include" />
+                      <e p="UnityUIInstancedContentManager.cs" t="Include" />
+                      <e p="UnityUITextTemplate.cs" t="Include" />
+                      <e p="UnityUIToggleTemplate.cs" t="Include" />
+                    </e>
+                    <e p="Unity UI Quest Alert UI" t="Include">
+                      <e p="UnityUIQuestAlertUI.cs" t="Include" />
+                    </e>
+                    <e p="Unity UI Quest Dialogue UI" t="Include">
+                      <e p="UnityUIQuestDialogueUI.cs" t="Include" />
+                    </e>
+                    <e p="Unity UI Quest HUD" t="Include">
+                      <e p="UnityUIQuestHUD.cs" t="Include" />
+                    </e>
+                    <e p="Unity UI Quest Journal UI" t="Include">
+                      <e p="UnityUIQuestJournalUI.cs" t="Include" />
+                      <e p="UnityUIQuestNameButtonTemplate.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Utility" t="Include">
+                  <e p="ByteData.cs" t="Include" />
+                  <e p="IQuestMachineID.cs" t="Include" />
+                  <e p="IQuestTimer.cs" t="Include" />
+                  <e p="MessageValue.cs" t="Include" />
+                  <e p="QuestJournalButton.cs" t="Include" />
+                  <e p="QuestMachineMessages.cs" t="Include" />
+                  <e p="QuestMachineTags.cs" t="Include" />
+                  <e p="QuestMessageParticipant.cs" t="Include" />
+                  <e p="QuestParameterDelegate.cs" t="Include" />
+                  <e p="QuestParticipantTextInfo.cs" t="Include" />
+                  <e p="QuestTimerManager.cs" t="Include" />
+                  <e p="StringFieldParameterDelegate.cs" t="Include" />
+                  <e p="TagDictionary.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Templates" t="Include">
+                <e p="QuestActionTemplate.cs" t="Include" />
+                <e p="QuestBuilderExample.cs" t="Include" />
+                <e p="QuestConditionTemplate.cs" t="Include" />
+                <e p="QuestContentTemplate.cs" t="Include" />
+                <e p="RequirementFunctionTemplate.cs" t="Include" />
+                <e p="RewardSystemTemplate.cs" t="Include" />
+                <e p="UrgencyFunctionTemplate.cs" t="Include" />
+              </e>
+              <e p="Third Party Support" t="Include">
+                <e p="_IMPORTANT_README.txt" t="Include" />
+              </e>
+              <e p="Wrappers" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="QuestAssetMenuUtility.cs" t="Include" />
+                </e>
+                <e p="Quest" t="Include">
+                  <e p="Quest Actions" t="Include">
+                    <e p="ActivateGameObjectQuestAction.cs" t="Include" />
+                    <e p="AlertQuestAction.cs" t="Include" />
+                    <e p="AnimatorQuestAction.cs" t="Include" />
+                    <e p="AudioQuestAction.cs" t="Include" />
+                    <e p="ControlSpawnerQuestAction.cs" t="Include" />
+                    <e p="GiveQuestToQuesterQuestAction.cs" t="Include" />
+                    <e p="InstantiatePrefabQuestAction.cs" t="Include" />
+                    <e p="MessageQuestAction.cs" t="Include" />
+                    <e p="QuestMachineSceneEvents.cs" t="Include" />
+                    <e p="SceneEventQuestAction.cs" t="Include" />
+                    <e p="SetCounterValueQuestAction.cs" t="Include" />
+                    <e p="SetIndicatorQuestAction.cs" t="Include" />
+                    <e p="SetQuestNodeStateQuestAction.cs" t="Include" />
+                    <e p="SetQuestStateQuestAction.cs" t="Include" />
+                    <e p="SetTrackingQuestAction.cs" t="Include" />
+                    <e p="UnityEventQuestAction.cs" t="Include" />
+                  </e>
+                  <e p="Quest Conditions" t="Include">
+                    <e p="CounterQuestCondition.cs" t="Include" />
+                    <e p="MessageQuestCondition.cs" t="Include" />
+                    <e p="ParentQuestCondition.cs" t="Include" />
+                    <e p="QuestNodeStateQuestCondition.cs" t="Include" />
+                    <e p="QuestStateQuestCondition.cs" t="Include" />
+                    <e p="TimerQuestCondition.cs" t="Include" />
+                  </e>
+                  <e p="Quest Content" t="Include">
+                    <e p="AudioClipQuestContent.cs" t="Include" />
+                    <e p="BodyTextQuestContent.cs" t="Include" />
+                    <e p="ButtonQuestContent.cs" t="Include" />
+                    <e p="HeadingTextQuestContent.cs" t="Include" />
+                    <e p="IconQuestContent.cs" t="Include" />
+                  </e>
+                  <e p="Quest.cs" t="Include" />
+                </e>
+                <e p="Quest Database" t="Include">
+                  <e p="QuestDatabase.cs" t="Include" />
+                </e>
+                <e p="Quest Generator" t="Include">
+                  <e p="Data" t="Include">
+                    <e p="Action" t="Include">
+                      <e p="Action.cs" t="Include" />
+                      <e p="Requirement Function" t="Include">
+                        <e p="FactionRequirementFunction.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="DomainType" t="Include">
+                      <e p="DomainType.cs" t="Include" />
+                    </e>
+                    <e p="Drive" t="Include">
+                      <e p="Drive.cs" t="Include" />
+                    </e>
+                    <e p="EntityType" t="Include">
+                      <e p="EntityType.cs" t="Include" />
+                      <e p="PlayerEntityType.cs" t="Include" />
+                    </e>
+                    <e p="Faction" t="Include">
+                      <e p="Faction.cs" t="Include" />
+                    </e>
+                    <e p="Urgency Functions" t="Include">
+                      <e p="DriveAlignmentUrgencyFunction.cs" t="Include" />
+                      <e p="FactionUrgencyFunction.cs" t="Include" />
+                      <e p="LiteralUrgencyFunction.cs" t="Include" />
+                      <e p="ThreatUrgencyFunction.cs" t="Include" />
+                      <e p="UrgencyFunction.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="MonoBehaviours" t="Include">
+                    <e p="QuestDomain.cs" t="Include" />
+                    <e p="QuestEntity.cs" t="Include" />
+                    <e p="QuestGeneratorEntity.cs" t="Include" />
+                    <e p="Reward Systems" t="Include">
+                      <e p="MessageRewardSystem.cs" t="Include" />
+                      <e p="XPRewardSystem.cs" t="Include" />
+                    </e>
+                    <e p="Savers" t="Include">
+                      <e p="EntityTypeSaver.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Quest Machine" t="Include">
+                  <e p="QuestMachineConfiguration.cs" t="Include" />
+                </e>
+                <e p="Quest MonoBehaviours" t="Include">
+                  <e p="Quest Interaction" t="Include">
+                    <e p="QuestControl.cs" t="Include" />
+                    <e p="SpawnedEntity.cs" t="Include" />
+                    <e p="Spawner.cs" t="Include" />
+                  </e>
+                  <e p="Quest List" t="Include">
+                    <e p="QuestGiver.cs" t="Include" />
+                    <e p="QuestJournal.cs" t="Include" />
+                    <e p="QuestListContainer.cs" t="Include" />
+                    <e p="QuestListEvents.cs" t="Include" />
+                    <e p="QuestMachineID.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Quest UIs" t="Include">
+                  <e p="Base" t="Include">
+                    <e p="Quest Alert UI" t="Include">
+                      <e p="QuestAlertDisplayer.cs" t="Include" />
+                    </e>
+                    <e p="Quest Indicators" t="Include">
+                      <e p="QuestIndicatorManager.cs" t="Include" />
+                      <e p="QuestIndicatorSaver.cs" t="Include" />
+                      <e p="QuestIndicatorUI.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Unity UI" t="Include">
+                    <e p="Unity UI Content Templates" t="Include">
+                      <e p="UnityUIButtonListTemplate.cs" t="Include" />
+                      <e p="UnityUIButtonTemplate.cs" t="Include" />
+                      <e p="UnityUIContainerTemplate.cs" t="Include" />
+                      <e p="UnityUIFoldoutTemplate.cs" t="Include" />
+                      <e p="UnityUIIconListTemplate.cs" t="Include" />
+                      <e p="UnityUIIconTemplate.cs" t="Include" />
+                      <e p="UnityUIQuestNameButtonTemplate.cs" t="Include" />
+                      <e p="UnityUITextTemplate.cs" t="Include" />
+                      <e p="UnityUIToggleTemplate.cs" t="Include" />
+                    </e>
+                    <e p="Unity UI Quest Alert UI" t="Include">
+                      <e p="UnityUIQuestAlertUI.cs" t="Include" />
+                    </e>
+                    <e p="Unity UI Quest Dialogue UI" t="Include">
+                      <e p="UnityUIQuestDialogueUI.cs" t="Include" />
+                    </e>
+                    <e p="Unity UI Quest HUD" t="Include">
+                      <e p="UnityUIQuestHUD.cs" t="Include" />
+                    </e>
+                    <e p="Unity UI Quest Journal UI" t="Include">
+                      <e p="UnityUIQuestJournalUI.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="Utility" t="Include">
+                  <e p="QuestJournalButton.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ScifiFacility" t="Include">
+          <e p="PostProcessing" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Attributes" t="Include">
+                <e p="PostProcessingModelEditorAttribute.cs" t="Include" />
+              </e>
+              <e p="Models" t="Include">
+                <e p="AmbientOcclusionModelEditor.cs" t="Include" />
+                <e p="AntialiasingModelEditor.cs" t="Include" />
+                <e p="BloomModelEditor.cs" t="Include" />
+                <e p="BuiltinDebugViewsEditor.cs" t="Include" />
+                <e p="ChromaticAberrationEditor.cs" t="Include" />
+                <e p="ColorGradingModelEditor.cs" t="Include" />
+                <e p="DefaultPostFxModelEditor.cs" t="Include" />
+                <e p="DepthOfFieldModelEditor.cs" t="Include" />
+                <e p="DitheringModelEditor.cs" t="Include" />
+                <e p="EyeAdaptationModelEditor.cs" t="Include" />
+                <e p="FogModelEditor.cs" t="Include" />
+                <e p="GrainModelEditor.cs" t="Include" />
+                <e p="MotionBlurModelEditor.cs" t="Include" />
+                <e p="ScreenSpaceReflectionModelEditor.cs" t="Include" />
+                <e p="UserLutModelEditor.cs" t="Include" />
+                <e p="VignetteModelEditor.cs" t="Include" />
+              </e>
+              <e p="Monitors" t="Include">
+                <e p="HistogramMonitor.cs" t="Include" />
+                <e p="ParadeMonitor.cs" t="Include" />
+                <e p="VectorscopeMonitor.cs" t="Include" />
+                <e p="WaveformMonitor.cs" t="Include" />
+              </e>
+              <e p="PostProcessingBehaviourEditor.cs" t="Include" />
+              <e p="PostProcessingFactory.cs" t="Include" />
+              <e p="PostProcessingInspector.cs" t="Include" />
+              <e p="PostProcessingModelEditor.cs" t="Include" />
+              <e p="PostProcessingMonitor.cs" t="Include" />
+              <e p="PropertyDrawers" t="Include">
+                <e p="GetSetDrawer.cs" t="Include" />
+                <e p="MinDrawer.cs" t="Include" />
+                <e p="TrackballGroupDrawer.cs" t="Include" />
+              </e>
+              <e p="Utils" t="Include">
+                <e p="CurveEditor.cs" t="Include" />
+                <e p="EditorGUIHelper.cs" t="Include" />
+                <e p="EditorResources.cs" t="Include" />
+                <e p="FxStyles.cs" t="Include" />
+                <e p="ReflectionUtils.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="Attributes" t="Include">
+                <e p="GetSetAttribute.cs" t="Include" />
+                <e p="MinAttribute.cs" t="Include" />
+                <e p="TrackballAttribute.cs" t="Include" />
+                <e p="TrackballGroupAttribute.cs" t="Include" />
+              </e>
+              <e p="Components" t="Include">
+                <e p="AmbientOcclusionComponent.cs" t="Include" />
+                <e p="BloomComponent.cs" t="Include" />
+                <e p="BuiltinDebugViewsComponent.cs" t="Include" />
+                <e p="ChromaticAberrationComponent.cs" t="Include" />
+                <e p="ColorGradingComponent.cs" t="Include" />
+                <e p="DepthOfFieldComponent.cs" t="Include" />
+                <e p="DitheringComponent.cs" t="Include" />
+                <e p="EyeAdaptationComponent.cs" t="Include" />
+                <e p="FogComponent.cs" t="Include" />
+                <e p="FxaaComponent.cs" t="Include" />
+                <e p="GrainComponent.cs" t="Include" />
+                <e p="MotionBlurComponent.cs" t="Include" />
+                <e p="ScreenSpaceReflectionComponent.cs" t="Include" />
+                <e p="TaaComponent.cs" t="Include" />
+                <e p="UserLutComponent.cs" t="Include" />
+                <e p="VignetteComponent.cs" t="Include" />
+              </e>
+              <e p="Models" t="Include">
+                <e p="AmbientOcclusionModel.cs" t="Include" />
+                <e p="AntialiasingModel.cs" t="Include" />
+                <e p="BloomModel.cs" t="Include" />
+                <e p="BuiltinDebugViewsModel.cs" t="Include" />
+                <e p="ChromaticAberrationModel.cs" t="Include" />
+                <e p="ColorGradingModel.cs" t="Include" />
+                <e p="DepthOfFieldModel.cs" t="Include" />
+                <e p="DitheringModel.cs" t="Include" />
+                <e p="EyeAdaptationModel.cs" t="Include" />
+                <e p="FogModel.cs" t="Include" />
+                <e p="GrainModel.cs" t="Include" />
+                <e p="MotionBlurModel.cs" t="Include" />
+                <e p="ScreenSpaceReflectionModel.cs" t="Include" />
+                <e p="UserLutModel.cs" t="Include" />
+                <e p="VignetteModel.cs" t="Include" />
+              </e>
+              <e p="PostProcessingBehaviour.cs" t="Include" />
+              <e p="PostProcessingComponent.cs" t="Include" />
+              <e p="PostProcessingContext.cs" t="Include" />
+              <e p="PostProcessingModel.cs" t="Include" />
+              <e p="PostProcessingProfile.cs" t="Include" />
+              <e p="Utils" t="Include">
+                <e p="ColorGradingCurve.cs" t="Include" />
+                <e p="GraphicsUtils.cs" t="Include" />
+                <e p="MaterialFactory.cs" t="Include" />
+                <e p="RenderTextureFactory.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Utilities" t="Include">
+              <e p="CustomMotionTexture" t="Include">
+                <e p="ExampleWheelController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="ColorConverter.cs" t="Include" />
+            <e p="Door_01.cs" t="Include" />
+            <e p="Door_02.cs" t="Include" />
+            <e p="FPController.cs" t="Include" />
+            <e p="FPSCounter.cs" t="Include" />
+            <e p="ThemeManager.cs" t="Include" />
+            <e p="UIKeys.cs" t="Include" />
+          </e>
+          <e p="SplineMesh" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="CubicBezierCurve.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="SplineEditor.cs" t="Include" />
+                <e p="SplineExtrusionEditor.cs" t="Include" />
+              </e>
+              <e p="MeshBender.cs" t="Include" />
+              <e p="Pipe.cs" t="Include" />
+              <e p="Spline.cs" t="Include" />
+              <e p="SplineExtrusion.cs" t="Include" />
+              <e p="SplineNode.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ChangeSkyboxMaterial.cs" t="Include" />
+          <e p="EVENT.cs" t="Include" />
+          <e p="FXController.cs" t="Include" />
+          <e p="MyAction.cs" t="Include" />
+          <e p="SoundController.cs" t="Include" />
+          <e p="Voice.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+        <e p="Девки" t="Include">
+          <e p="UnityChanShader" t="Include">
+            <e p="Shader" t="Include">
+              <e p="CharaMain.cginc" t="Include" />
+              <e p="CharaOutline.cginc" t="Include" />
+              <e p="CharaSkin.cginc" t="Include" />
+              <e p="Readme.txt" t="Include" />
+              <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+              <e p="Unitychan_chara_eye.shader" t="Include" />
+              <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+              <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+              <e p="Unitychan_chara_fuku.shader" t="Include" />
+              <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+              <e p="Unitychan_chara_hada.shader" t="Include" />
+              <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+              <e p="Unitychan_chara_hair.shader" t="Include" />
+              <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Деревня" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Fonts License.txt" t="Include" />
+            </e>
+            <e p="Readme.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AudioZoneControl.cs" t="Include" />
+            <e p="Door.cs" t="Include" />
+            <e p="LightCulling.cs" t="Include" />
+            <e p="PhysicsObject.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerInteractions.cs" t="Include" />
+            <e p="SuntailStartDemo.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Suntail_Foliage.shader" t="Include" />
+            <e p="Suntail_Surface.shader" t="Include" />
+            <e p="Suntail_Water.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="village.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
