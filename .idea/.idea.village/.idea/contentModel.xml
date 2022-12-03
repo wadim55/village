@@ -24,6 +24,7 @@
             <e p="HR_SetScriptingSymbol.cs" t="Include" />
             <e p="HR_WheelsEditor.cs" t="Include" />
           </e>
+          <e p="ggg.cs" t="Include" />
           <e p="RealisticCarControllerV3" t="Include">
             <e p="Editor" t="Include">
               <e p="RCC_AIBZEditor.cs" t="Include" />
@@ -1158,6 +1159,13 @@
           </e>
         </e>
         <e p="Девки" t="Include">
+          <e p="Editor" t="Include">
+            <e p="CreateAssetBundles.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AnimatorController.cs" t="Include" />
+            <e p="Swapper.cs" t="Include" />
+          </e>
           <e p="UnityChanShader" t="Include">
             <e p="Shader" t="Include">
               <e p="CharaMain.cginc" t="Include" />

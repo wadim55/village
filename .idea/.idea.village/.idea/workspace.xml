@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="569d8fd3-a133-4f36-957e-fcd05ef585e9" name="Default Changelist" comment="" />
+    <list default="true" id="569d8fd3-a133-4f36-957e-fcd05ef585e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.village/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.village/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.village/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.village/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.village/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.village/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetLoader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Suntail Village.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Suntail Village.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MyAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MyAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/StreamingAssets.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/girls" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/girls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/girls.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/girls.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/AvatarA_Mask_v1.0.mask" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/AvatarA_Mask_v1.0.mask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/Camera_move.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/Camera_move.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/DirecLigth.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/DirecLigth.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/Directional Light.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/Directional Light.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/cam_pose01.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/cam_pose01.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/cam_pose02.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/cam_pose02.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/cam_pose_spellC.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/cam_pose_spellC.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/cam_pose_spellC_2.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/cam_pose_spellC_2.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/came_start.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Animations/Camera&amp;light_animation/came_start.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Emotions/Emotion_Mask_v1.0.mask" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Emotions/Emotion_Mask_v1.0.mask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Eri/Prefab/Eri_sweather.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Eri/Prefab/Eri_sweather.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Eri/Prefab/Eri_sweather.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Eri/Prefab/Eri_sweather.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Hoshi/Prefab/Hoshi.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Hoshi/Prefab/Hoshi.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Hoshi/Prefab/Hoshi.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Hoshi/Prefab/Hoshi.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Kazuko/Prefab/Kazuko.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Kazuko/Prefab/Kazuko.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Kazuko/Prefab/Kazuko.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Kazuko/Prefab/Kazuko.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Naoko/Prefab/Naoko.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Naoko/Prefab/Naoko.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Riko/Prefab/Riko.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Riko/Prefab/Riko.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Девки/Riko/Prefab/Riko_Tanktop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Девки/Riko/Prefab/Riko_Tanktop.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Деревня/Scripts/PhysicsObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Деревня/Scripts/PhysicsObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/AssetLoader.cs" root0="FORCE_HIGHLIGHTING" />
@@ -22,17 +61,19 @@
         <option value="$PROJECT_DIR$/Assets/Деревня/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Voice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EVENT.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MyAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ChangeSkyboxMaterial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FXController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SoundController.cs" />
         <option value="$PROJECT_DIR$/Assets/Девки/Editor/CreateAssetBundles.cs" />
-        <option value="$PROJECT_DIR$/Assets/AssetLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/creatingBundles.cs" />
+        <option value="$PROJECT_DIR$/Assets/Деревня/Scripts/PhysicsObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/AssetLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MyAction.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2HtUxZgXJTluWVfIUqFgbyP3bZl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,6 +128,9 @@
       <workItem from="1669358833153" duration="6587000" />
       <workItem from="1669371064275" duration="1395000" />
       <workItem from="1669386723748" duration="1082000" />
+      <workItem from="1669472613349" duration="2023000" />
+      <workItem from="1669991299132" duration="1999000" />
+      <workItem from="1670078384654" duration="909000" />
     </task>
     <servers />
   </component>
@@ -95,6 +139,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

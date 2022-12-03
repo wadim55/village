@@ -17,5 +17,4 @@ public class MyAction : MonoBehaviour
     {
         EVENT.changeDayNight(TimeOfDay);
     }
-    
 }

@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 /*Sub-component of the main player interaction script, 
   needed for collision detection and playback drop sound*/
@@ -10,6 +12,14 @@ namespace Suntail
     [RequireComponent(typeof(AudioSource))]
     public class PhysicsObject : MonoBehaviour
     {
+        public GameObject player;
+        
+        private void Start()
+        {
+            transform.SetParent(player.transform);
+        }
+
+
         [Tooltip("Waiting time for an item to be picked up")]
         [SerializeField] private float waitOnPickup = 0.2f;
 

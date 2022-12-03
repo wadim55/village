@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 388498164
+CRC: 3743917025
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 54ca198d1b0b9912399a1d10ed6c5e8c
+    Hash: 4f7091b56ecbbe543b3983077ae0ad92
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e171aef1c589160d467ca0fa35829bba
+    Hash: 5950843c5abdc74e89ac3aa1dc820a7d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,6 +31,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
 - Class: 91
@@ -38,17 +40,35 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 70b342d8ce5c2fd48b8fa3147d48d1d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b2d8418b0b9634b1892b0268dd9c2743, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 732e99ba3b575dc4dad61a69b0417c96, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 641a501636ec3644993211c008d9a8a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3c430f382484144e925c097c2d33cfe, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5682394e55a192147a020b9edf624e51, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 07991854900d31945a21cc890801290e, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: b79c7719e6566674b8c4d70a6fc32d34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db96f88aa5ffa5f4fa0f132f9f27ca85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d18230d3a29b2a418e94d126c53f276, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b277464c5022454f9aed82391b4c1bd, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 9840a28297a53d449903f34dc60157bb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fff0960ef4ea6e04eac66b4a7fd2189d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2185d538298c73f418ba252c3e3e01ff, type: 3}
 - Class: 114
@@ -69,19 +89,41 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.GameObjectUnityEvent
+- AssemblyName: Assembly-CSharp-firstpass
   ClassName: PixelCrushers.QuestMachine.BasicUIContent
 - AssemblyName: Assembly-CSharp-firstpass
   ClassName: PixelCrushers.QuestMachine.MessageValue
 - AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.QuestMachine.QuestAudioSourceIdentifier
+- AssemblyName: Assembly-CSharp-firstpass
   ClassName: PixelCrushers.QuestMachine.QuestConditionSet
 - AssemblyName: Assembly-CSharp-firstpass
   ClassName: PixelCrushers.QuestMachine.QuestContentSet
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.QuestMachine.QuestControl/ConditionalEvent
 - AssemblyName: Assembly-CSharp-firstpass
   ClassName: PixelCrushers.QuestMachine.QuestNode
 - AssemblyName: Assembly-CSharp-firstpass
   ClassName: PixelCrushers.QuestMachine.QuestStateInfo
 - AssemblyName: Assembly-CSharp-firstpass
   ClassName: PixelCrushers.StringField
+- AssemblyName: Assembly-CSharp-firstpass
+  ClassName: PixelCrushers.TagMask
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.MultiAimConstraintData
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.RigEffectorData
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.RigEffectorData/Style
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.RigLayer
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.Vector3Bool
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.WeightedTransform
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.WeightedTransformArray
 - AssemblyName: Unity.TextMeshPro
   ClassName: TMPro.FaceInfo_Legacy
 - AssemblyName: Unity.TextMeshPro
@@ -222,6 +264,7 @@ Assets:
 - "Assets/\u0414\u0435\u0432\u043A\u0438/Eri/Materials/Eri/Base_character/Eri_eyeline.mat"
 - "Assets/\u0414\u0435\u0432\u043A\u0438/Animations/Anim@Cutepose.fbx"
 - "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/Unitychan_chara_fuku.shader"
+- "Assets/\u0414\u0435\u0432\u043A\u0438/Kazuko_Questgiver.prefab"
 - "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Materials/Hoshi/Base_character/Hoshi_face.mat"
 - "Assets/\u0414\u0435\u0432\u043A\u0438/UnityChanShader/Shader/FO_SKIN1.tga"
 - "Assets/\u0414\u0435\u0432\u043A\u0438/Hoshi/Texture/Hoshi/Hoshi_katana.png"

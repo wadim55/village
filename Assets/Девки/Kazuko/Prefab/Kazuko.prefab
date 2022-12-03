@@ -4979,6 +4979,11 @@ GameObject:
   - component: {fileID: 54061382318833688}
   - component: {fileID: 136491243290544384}
   - component: {fileID: 95691277913748488}
+  - component: {fileID: 8655609641734042184}
+  - component: {fileID: 3465612342617710033}
+  - component: {fileID: 5169205148438777466}
+  - component: {fileID: 651398784933715361}
+  - component: {fileID: 4669379617331358010}
   m_Layer: 0
   m_Name: Kazuko
   m_TagString: Untagged
@@ -5055,6 +5060,304 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &8655609641734042184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571125196395142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2185d538298c73f418ba252c3e3e01ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_key: 
+  m_appendSaverTypeToKey: 0
+  m_saveAcrossSceneChanges: 1
+  m_restoreStateOnStart: 0
+  m_forwardEventsToListeners: 0
+  m_includeInSavedGameData: 1
+  m_addNewQuestsSinceSavedGame: 0
+  m_questList:
+  - {fileID: 11400000, guid: c80c6c6f906d5d5458f5141c14b5c722, type: 2}
+  - {fileID: 11400000, guid: f8c251f68be4f2946b0c71c500f44de4, type: 2}
+  m_deletedStaticQuests: []
+  m_id:
+    m_text: "\u041A\u0430\u0437\u0443\u043A\u043E"
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+  m_displayName:
+    m_text: "\u041A\u0430\u0437\u0443\u043A\u043E"
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+  m_image: {fileID: 21300000, guid: 654067f85baa9634d902f4dbe466ca9d, type: 3}
+  m_textTable: {fileID: 0}
+  m_noQuestsUIContents:
+    m_icon: {fileID: 0}
+    m_headingText:
+      m_text: 
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+    m_bodyText:
+      m_text: "\u041F\u043E \u043D\u043E\u0447\u0430\u043C \u043D\u0430 \u044D\u0442\u0443
+        \u0434\u0435\u0440\u0435\u0432\u043D\u044E \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0442
+        \u043F\u0440\u0438\u0437\u0440\u0430\u043A\u0438. \u0422\u044B \u0434\u043E\u043B\u0436\u0435\u043D
+        \u0441\u0440\u043E\u0447\u043D\u043E  \u043F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u0438\u0442\u044C\u0441\u044F!"
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+  m_offerableQuestsUIContents:
+    m_icon: {fileID: 0}
+    m_headingText:
+      m_text: 
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+    m_bodyText:
+      m_text: 
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+  m_activeQuestsUIContents:
+    m_icon: {fileID: 0}
+    m_headingText:
+      m_text: 
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+    m_bodyText:
+      m_text: 
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+  m_completedQuestDialogueMode: 0
+  m_questDialogueUI: {fileID: 0}
+  m_cooldownCheckFrequency: 0
+--- !u!114 &3465612342617710033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571125196395142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b79c7719e6566674b8c4d70a6fc32d34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tagMask:
+    m_tags:
+    - Player
+  m_onTriggerEnter:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 8655609641734042184}
+        m_TargetAssemblyTypeName: PixelCrushers.QuestMachine.QuestGiver, Assembly-CSharp-firstpass
+        m_MethodName: StartDialogueWithPlayer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2996175225464580466, guid: 1a9d38e036db3034e94c3b90aac11bbb, type: 3}
+        m_TargetAssemblyTypeName: MyAction, Assembly-CSharp
+        m_MethodName: EnterTriggerGirl
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 10
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  m_onTriggerExit:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &5169205148438777466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571125196395142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fff0960ef4ea6e04eac66b4a7fd2189d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_RigLayers:
+  - m_Rig: {fileID: 0}
+    m_Active: 1
+  m_Effectors: []
+--- !u!114 &651398784933715361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571125196395142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db96f88aa5ffa5f4fa0f132f9f27ca85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animators:
+  - {fileID: 95691277913748488}
+--- !u!114 &4669379617331358010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571125196395142}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2d8418b0b9634b1892b0268dd9c2743, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boneShape: 1
+  drawBones: 1
+  drawTripods: 0
+  boneSize: 1
+  tripodSize: 1
+  boneColor: {r: 0, g: 0, b: 1, a: 0.5}
+  m_Transforms:
+  - {fileID: 4066802279692032}
+  - {fileID: 4414299936038526}
+  - {fileID: 4574571546483446}
+  - {fileID: 4706945754397144}
+  - {fileID: 4403343996081762}
+  - {fileID: 4799090053575088}
+  - {fileID: 4760100418313244}
+  - {fileID: 4070175954983474}
+  - {fileID: 4985650375963686}
+  - {fileID: 4519712207043138}
+  - {fileID: 4279325282575770}
+  - {fileID: 4861940751272440}
+  - {fileID: 4468976592519896}
+  - {fileID: 4945911162512588}
+  - {fileID: 4702202403918146}
+  - {fileID: 4266995624382060}
+  - {fileID: 4546691036397168}
+  - {fileID: 4823690880211738}
+  - {fileID: 4519549779287756}
+  - {fileID: 4426169371304134}
+  - {fileID: 4199191131159272}
+  - {fileID: 4996803339884976}
+  - {fileID: 4513743863397328}
+  - {fileID: 4994804935720990}
+  - {fileID: 4901322441991480}
+  - {fileID: 4770731350662372}
+  - {fileID: 4138162647967534}
+  - {fileID: 4561779458617428}
+  - {fileID: 4148249601388998}
+  - {fileID: 4112520123886556}
+  - {fileID: 4403088387334654}
+  - {fileID: 4963321509069324}
+  - {fileID: 4265321071563124}
+  - {fileID: 4159412435677824}
+  - {fileID: 4082598983482128}
+  - {fileID: 4005430940113168}
+  - {fileID: 4387528785882010}
+  - {fileID: 4015710906322632}
+  - {fileID: 4717035643929768}
+  - {fileID: 4599530437211038}
+  - {fileID: 4048536330620686}
+  - {fileID: 4711935400026658}
+  - {fileID: 4931784722853658}
+  - {fileID: 4972191570969214}
+  - {fileID: 4142565200685562}
+  - {fileID: 4358682876683716}
+  - {fileID: 4069120974373088}
+  - {fileID: 4600247555397786}
+  - {fileID: 4936588750287652}
+  - {fileID: 4438368496580904}
+  - {fileID: 4727560717595720}
+  - {fileID: 4781893279109244}
+  - {fileID: 4579149828515320}
+  - {fileID: 4485660803850872}
+  - {fileID: 4586608450049276}
+  - {fileID: 4167282211929438}
+  - {fileID: 4074339899968648}
+  - {fileID: 4515197557756048}
+  - {fileID: 4653465927757618}
+  - {fileID: 4608986572186382}
+  - {fileID: 4510780293636832}
+  - {fileID: 4226847964589432}
+  - {fileID: 4293402450303210}
+  - {fileID: 4482213174882704}
+  - {fileID: 4945003812190904}
+  - {fileID: 4708498773155392}
+  - {fileID: 4853631630023230}
+  - {fileID: 4152782751915910}
+  - {fileID: 4048836375341414}
+  - {fileID: 4769545368308288}
+  - {fileID: 4041872845450452}
+  - {fileID: 4543868680095390}
+  - {fileID: 4679609754519352}
+  - {fileID: 4467793578989898}
+  - {fileID: 4325732367008682}
+  - {fileID: 4736539856341276}
+  - {fileID: 4341254372006090}
+  - {fileID: 4966251919918010}
+  - {fileID: 4253521525505232}
+  - {fileID: 4793911206228948}
+  - {fileID: 4383105324559296}
+  - {fileID: 4693502054385960}
+  - {fileID: 4620132581564852}
+  - {fileID: 4485730753996438}
+  - {fileID: 4058905753279012}
+  - {fileID: 4356342973243912}
+  - {fileID: 4894965568079052}
+  - {fileID: 4038549144610444}
+  - {fileID: 4589323194167798}
+  - {fileID: 4658576361779434}
+  - {fileID: 4818607904009242}
+  - {fileID: 4378337828161690}
+  - {fileID: 4479352844092226}
+  - {fileID: 4220759652830226}
+  - {fileID: 4298883885456672}
+  - {fileID: 4319271600424462}
+  - {fileID: 4674391092679290}
+  - {fileID: 4798279477188210}
+  - {fileID: 4107232747251408}
+  - {fileID: 4195214876001704}
+  - {fileID: 4277940214542206}
+  - {fileID: 4765185668988638}
+  - {fileID: 4188728671359188}
+  - {fileID: 4502246081858196}
+  - {fileID: 4877332344276506}
+  - {fileID: 4656647237829784}
+  - {fileID: 4653906617138798}
+  - {fileID: 4582800650717190}
+  - {fileID: 4109739115044486}
+  - {fileID: 4155410194020570}
+  - {fileID: 4146214898679536}
+  - {fileID: 4975863520834162}
+  - {fileID: 4340132200590736}
+  - {fileID: 4839817757471536}
+  - {fileID: 4529338610583666}
+  - {fileID: 4565354503088984}
+  - {fileID: 4351294776636034}
+  - {fileID: 4292603345831600}
+  - {fileID: 4220297323980430}
+  - {fileID: 4621801684495128}
+  - {fileID: 4434815277095560}
+  - {fileID: 4623333532197282}
+  - {fileID: 4122293089964646}
+  - {fileID: 4675668101848982}
+  - {fileID: 4851124220674942}
+  - {fileID: 4424428669482586}
+  - {fileID: 4714877968287352}
 --- !u!1 &1579794217178656
 GameObject:
   m_ObjectHideFlags: 0
